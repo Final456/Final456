@@ -6,9 +6,15 @@
 📜 Description:
    This page, and the associated site, contains 
    anything and everything as my creative outlet 
-   but also nothing at the same time. 🪵🌀
+   but also nothing at the same time.
 
-Status: Always Learning
+   🌀 >-- Title -->
+   I'm a Threat Intelligence Researcher based in Ireland.
+   Thank you so much all those who have spent time training and mentoring me every step of the way.
+   It may be corny, but you all inspire me to the highest degree.
+
+   🌀 >-- Status -->
+   Always Learning
 --------------------------------------------------
 ```
 
